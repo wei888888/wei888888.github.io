@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repo: git@github.com:wei888888/wei888888.github.io.git
+  branch: master
